@@ -1,3 +1,3 @@
 # Marko Misovski — CV
 
-[View CV (PDF)](CV.pdf)
+[View CV (PDF)](Marko_Misovski.pdf)
